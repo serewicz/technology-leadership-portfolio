@@ -1,5 +1,7 @@
 # Growth Equity B2B SaaS
 
+This case study is a synthetic example designed to demonstrate technology leadership patterns. It does not represent confidential client work.
+
 ## Scenario
 
 A $5M-$50M B2B SaaS company is scaling but faces cloud cost growth, delivery predictability issues, security governance gaps, AI readiness questions, and technical debt.

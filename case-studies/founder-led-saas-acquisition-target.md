@@ -1,5 +1,7 @@
 # Founder-Led SaaS Acquisition Target
 
+This case study is a synthetic example designed to demonstrate technology leadership patterns. It does not represent confidential client work.
+
 ## Scenario
 
 A founder-led vertical SaaS company is being evaluated as an acquisition target. The product has customer traction, but core technology operations depend heavily on the founder and a small number of senior engineers.

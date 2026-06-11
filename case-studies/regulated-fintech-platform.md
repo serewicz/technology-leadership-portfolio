@@ -1,5 +1,7 @@
 # Regulated FinTech Platform
 
+This case study is a synthetic example designed to demonstrate technology leadership patterns. It does not represent confidential client work.
+
 ## Scenario
 
 A regulated software company has vendor concentration, privileged access concerns, compliance evidence gaps, incident reporting exposure, CRA readiness questions, and emerging AI governance needs.

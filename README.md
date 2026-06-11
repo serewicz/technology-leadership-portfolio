@@ -16,6 +16,12 @@ This portfolio demonstrates a practical approach to:
 
 The repositories below represent an integrated technology leadership system rather than a collection of unrelated tools.
 
+All case studies are synthetic examples designed to demonstrate technology leadership patterns. They do not represent confidential client work.
+
+## About This Portfolio
+
+This repository is the front door for Timothy Serewicz's technology leadership portfolio. It connects methodology, assessment, implementation, and measurement across related projects focused on CTO leadership, technology diligence, AI governance, platform modernization, and engineering effectiveness.
+
 ## Portfolio Model
 
 ```mermaid
@@ -214,3 +220,15 @@ Areas of focus:
 ## Roadmap
 
 See [Portfolio Roadmap](docs/portfolio-roadmap.md).
+
+## License
+
+This portfolio is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise noted.
+
+The repositories linked from this portfolio may use different licenses depending on whether they contain software, documentation, or templates.
+
+## Contact
+
+- Website: https://serewicz.com
+- LinkedIn: https://www.linkedin.com/in/serewicz/
+- GitHub: https://github.com/serewicz
