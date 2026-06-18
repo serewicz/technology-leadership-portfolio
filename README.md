@@ -22,6 +22,24 @@ All case studies are synthetic examples designed to demonstrate technology leade
 
 This repository is the front door for Timothy Serewicz's technology leadership portfolio. It connects methodology, assessment, implementation, and measurement across related projects focused on CTO leadership, technology diligence, AI governance, platform modernization, and engineering effectiveness.
 
+## AI Knowledge Governance
+
+Many organizations are adopting AI before deciding how proprietary knowledge should be managed.
+
+The recommended pattern is:
+
+| Knowledge Type | Recommended Pattern |
+|---|---|
+| Public knowledge | External LLMs with policy controls |
+| Internal knowledge | Governed RAG and enterprise search |
+| Sensitive IP | Private endpoints or local SLMs |
+
+The objective is not to eliminate public AI tools. The objective is to align data sensitivity, governance, cost, and business value.
+
+This connects AI governance, intellectual property protection, knowledge retention, key-person risk reduction, and operational scalability.
+
+CTO Operating System contains the governance framework. Executive AI Advisor assesses whether the organization is governing knowledge appropriately. K8s Platform Blueprint provides implementation architecture patterns. Engineering Operating Metrics can track AI cost and usage trends.
+
 ## Portfolio Model
 
 ```mermaid
