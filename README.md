@@ -40,6 +40,12 @@ This connects AI governance, intellectual property protection, knowledge retenti
 
 CTO Operating System contains the governance framework. Executive AI Advisor assesses whether the organization is governing knowledge appropriately. K8s Platform Blueprint provides implementation architecture patterns. Engineering Operating Metrics can track AI cost and usage trends.
 
+## AI Replicability Risk
+
+Organizations increasingly rely on AI to create value, but not all AI advantages are durable.
+
+The portfolio includes frameworks and assessments that help leadership teams evaluate whether AI-enabled capabilities are defensible, governed, and difficult for competitors to reproduce.
+
 ## Portfolio Model
 
 ```mermaid
