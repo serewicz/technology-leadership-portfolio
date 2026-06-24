@@ -42,9 +42,9 @@ CTO Operating System contains the governance framework. Executive AI Advisor ass
 
 ## AI Replicability Risk
 
-Organizations increasingly rely on AI to create value, but not all AI advantages are durable.
+Organizations increasingly rely on AI to create value, but not all AI advantages are durable. AI Replicability Risk evaluates whether AI-enabled capabilities are defensible or can be reproduced by competitors using public models, common tools, and similar data access.
 
-The portfolio includes frameworks and assessments that help leadership teams evaluate whether AI-enabled capabilities are defensible, governed, and difficult for competitors to reproduce.
+This matters for diligence, valuation, exit readiness, competitive advantage, and board oversight.
 
 ## Portfolio Model
 
